@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-12-13T21:40:22.348319",
+  "pdf_name": "PS-MPU-9250A-01-v1.1-3.pdf",
+  "pages": 42,
+  "chunks": 57,
+  "queries": [
+    {
+      "query": "What is the I2C address?",
+      "type": "Simple",
+      "time": 1.04,
+      "confidence": 0.451,
+      "answer": "\u2022 This allows two MPU-9250s to be connected to the same I2C bus. (pg 32)",
+      "llm_used": false
+    },
+    {
+      "query": "What is the operating voltage?",
+      "type": "Medium",
+      "time": 0.06,
+      "confidence": 0.343,
+      "answer": "\u2022 Answer not found in datasheet.",
+      "llm_used": false
+    },
+    {
+      "query": "List all configuration registers",
+      "type": "Complex",
+      "time": 0.07,
+      "confidence": 0.328,
+      "answer": "\u2022 Answer not found in datasheet.",
+      "llm_used": false
+    },
+    {
+      "query": "How does this sensor work?",
+      "type": "AI-assisted",
+      "time": 18.93,
+      "confidence": 0.326,
+      "answer": "\u2022 The MPU-9250 utilizes three-axis MEMS sensors for accelerometers, gyroscopes, and magnetometers wi",
+      "llm_used": true
+    }
+  ]
+}

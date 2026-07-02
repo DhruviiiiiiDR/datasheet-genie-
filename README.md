@@ -1,6 +1,3 @@
-Here's a professional GitHub README for your project that highlights both the technical depth and practical usefulness. Since you're planning to apply for embedded/software internships, this style is much stronger than a simple README.
-
----
 
 # 📄 Datasheet RAG + Arduino I2C Code Generator
 
@@ -217,7 +214,7 @@ Benchmark results are exported as JSON for future analysis.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/datasheet-rag-i2c-generator.git
+git clone https://github.com/DhruviiiiiiDR/datasheet-rag-i2c-generator.git
 
 cd datasheet-rag-i2c-generator
 ```
